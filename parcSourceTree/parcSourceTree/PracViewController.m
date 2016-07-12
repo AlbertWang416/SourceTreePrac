@@ -25,6 +25,16 @@
     [self.view addSubview:label];
     
     
+    UILabel *label1=[[UILabel alloc]initWithFrame:CGRectMake(100, 210, 100, 100)];
+    label1.backgroundColor=[UIColor greenColor];
+    label1.text=@"hahha";
+    [self.view addSubview:label1];
+    
+    
+    
+    
+    
+    
     
     
 }
